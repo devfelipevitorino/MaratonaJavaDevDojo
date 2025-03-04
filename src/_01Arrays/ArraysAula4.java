@@ -1,4 +1,4 @@
-package Arrays;
+package _01Arrays;
 
 public class ArraysAula4 {
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class ArraysAula4 {
         int[] n3 = new int[]{1,2,3,4,5,6};
 
         for ( int n : n2){
-            System.out.println(n2[n]);
+            System.out.println(n);
         }
 
     }
