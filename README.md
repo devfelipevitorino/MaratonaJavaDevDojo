@@ -1,7 +1,7 @@
 # 📚 Estudo sobre Java - Maratona Java DevDojo
 
 ![Badge Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
-![Java](https://img.shields.io/badge/Java-11-blue)
+![Java](https://img.shields.io/badge/Java-blue)
 
 ## 🚀 Sobre o Projeto  
 Este repositório documenta meus estudos sobre Java baseados na Maratona Java do DevDojo. O objetivo é consolidar conhecimentos fundamentais e avançados para aplicação em projetos reais.
