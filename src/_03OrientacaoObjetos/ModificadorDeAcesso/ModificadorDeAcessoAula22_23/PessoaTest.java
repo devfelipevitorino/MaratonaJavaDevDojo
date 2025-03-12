@@ -1,6 +1,6 @@
-package _03OrientacaoObjetos.ModificadorDeAcesso.ModificadorDeAcessoAula22;
+package _03OrientacaoObjetos.ModificadorDeAcesso.ModificadorDeAcessoAula22_23;
 
-import _03OrientacaoObjetos.ModificadorDeAcesso.ModificadorDeAcessoAula22.Dominio.Pessoa;
+import _03OrientacaoObjetos.ModificadorDeAcesso.ModificadorDeAcessoAula22_23.Dominio.Pessoa;
 
 public class PessoaTest {
     public static void main(String[] args) {

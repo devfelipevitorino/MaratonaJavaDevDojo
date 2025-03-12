@@ -1,4 +1,4 @@
-package _03OrientacaoObjetos.ModificadorDeAcesso.ModificadorDeAcessoAula22.Dominio;
+package _03OrientacaoObjetos.ModificadorDeAcesso.ModificadorDeAcessoAula22_23.Dominio;
 
 public class Pessoa {
 
