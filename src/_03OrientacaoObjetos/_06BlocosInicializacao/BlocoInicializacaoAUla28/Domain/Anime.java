@@ -1,4 +1,4 @@
-package _03OrientacaoObjetos._06BlocosInicializacao.Domain;
+package _03OrientacaoObjetos._06BlocosInicializacao.BlocoInicializacaoAUla28.Domain;
 
 public class Anime {
     private String nome;
