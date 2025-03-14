@@ -1,6 +1,6 @@
-package _03OrientacaoObjetos._06BlocosInicializacao.BlocoInicializacaoAula28;
+package _03OrientacaoObjetos._06BlocosInicializacao._01BlocoInicializacaoAula28;
 
-import _03OrientacaoObjetos._06BlocosInicializacao.BlocoInicializacaoAula28.Domain.Anime;
+import _03OrientacaoObjetos._06BlocosInicializacao._01BlocoInicializacaoAula28.Domain.Anime;
 
 public class AnimeTest {
     public static void main(String[] args) {
