@@ -1,4 +1,4 @@
-package _03OrientacaoObjetos._08Associacao._03AssociacaoUnidirecionalMuitosUmAula34.Domain;
+package _03OrientacaoObjetos._08_1Associacao._03AssociacaoUnidirecionalMuitosUmAula34.Domain;
 
 public class Escola {
     private String nome;

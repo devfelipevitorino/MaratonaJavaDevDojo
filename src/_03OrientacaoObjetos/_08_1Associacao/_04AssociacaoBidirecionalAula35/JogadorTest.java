@@ -1,7 +1,7 @@
-package _03OrientacaoObjetos._08Associacao._04AssociacaoBidirecionalAula35;
+package _03OrientacaoObjetos._08_1Associacao._04AssociacaoBidirecionalAula35;
 
-import _03OrientacaoObjetos._08Associacao._04AssociacaoBidirecionalAula35.Domain.Jogador;
-import _03OrientacaoObjetos._08Associacao._04AssociacaoBidirecionalAula35.Domain.Time;
+import _03OrientacaoObjetos._08_1Associacao._04AssociacaoBidirecionalAula35.Domain.Jogador;
+import _03OrientacaoObjetos._08_1Associacao._04AssociacaoBidirecionalAula35.Domain.Time;
 
 public class JogadorTest {
     public static void main(String[] args) {

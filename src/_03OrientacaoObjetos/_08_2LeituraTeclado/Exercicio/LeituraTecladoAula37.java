@@ -1,4 +1,4 @@
-package _03OrientacaoObjetos._08Associacao._8_1LeituraTeclado.Exercicio;
+package _03OrientacaoObjetos._08_2LeituraTeclado.Exercicio;
 
 import java.util.Scanner;
 

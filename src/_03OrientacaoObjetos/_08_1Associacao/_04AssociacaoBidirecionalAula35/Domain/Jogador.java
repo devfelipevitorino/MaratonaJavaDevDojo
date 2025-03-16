@@ -1,4 +1,4 @@
-package _03OrientacaoObjetos._08Associacao._04AssociacaoBidirecionalAula35.Domain;
+package _03OrientacaoObjetos._08_1Associacao._04AssociacaoBidirecionalAula35.Domain;
 
 public class Jogador {
 
