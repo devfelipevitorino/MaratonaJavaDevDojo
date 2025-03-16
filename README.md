@@ -20,7 +20,7 @@ Com este estudo, eu posso:
 ## 📖 Tópicos Abordados
 - Introdução ao Java e Configuração do Ambiente
 - Estruturas Condicionais e Laços de Repetição
-- _01Arrays e Coleções
+- Arrays e Coleções
 - Programação Orientada a Objetos (Classes, Herança, Polimorfismo, Interfaces)
 - Manipulação de Arquivos e Streams
 - Banco de Dados com JDBC
