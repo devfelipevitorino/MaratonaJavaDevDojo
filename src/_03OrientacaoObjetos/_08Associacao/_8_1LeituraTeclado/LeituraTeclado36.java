@@ -2,7 +2,7 @@ package _03OrientacaoObjetos._08Associacao._8_1LeituraTeclado;
 
 import java.util.Scanner;
 
-public class LeituraTeclado {
+public class LeituraTeclado36 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
