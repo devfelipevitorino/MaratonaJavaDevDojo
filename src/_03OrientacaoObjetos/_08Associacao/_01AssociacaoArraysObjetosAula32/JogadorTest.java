@@ -1,6 +1,6 @@
-package _03OrientacaoObjetos._08Associacao.AssociacaoArraysObjetosAula32;
+package _03OrientacaoObjetos._08Associacao._01AssociacaoArraysObjetosAula32;
 
-import _03OrientacaoObjetos._08Associacao.AssociacaoArraysObjetosAula32.Domain.Jogador;
+import _03OrientacaoObjetos._08Associacao._01AssociacaoArraysObjetosAula32.Domain.Jogador;
 
 public class JogadorTest {
     public static void main(String[] args) {

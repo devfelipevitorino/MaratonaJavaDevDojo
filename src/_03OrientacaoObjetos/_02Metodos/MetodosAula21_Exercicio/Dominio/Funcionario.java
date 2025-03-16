@@ -1,4 +1,4 @@
-package _03OrientacaoObjetos._02Metodos.MetodosAula21.Dominio;
+package _03OrientacaoObjetos._02Metodos.MetodosAula21_Exercicio.Dominio;
 
 public class Funcionario {
     public String nome;

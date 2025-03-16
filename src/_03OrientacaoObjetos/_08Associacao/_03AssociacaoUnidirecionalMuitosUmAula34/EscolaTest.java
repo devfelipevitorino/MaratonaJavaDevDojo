@@ -1,7 +1,7 @@
-package _03OrientacaoObjetos._08Associacao.AssociacaoUnidirecionalMuitosUmAula34;
+package _03OrientacaoObjetos._08Associacao._03AssociacaoUnidirecionalMuitosUmAula34;
 
-import _03OrientacaoObjetos._08Associacao.AssociacaoUnidirecionalMuitosUmAula34.Domain.Escola;
-import _03OrientacaoObjetos._08Associacao.AssociacaoUnidirecionalMuitosUmAula34.Domain.Professor;
+import _03OrientacaoObjetos._08Associacao._03AssociacaoUnidirecionalMuitosUmAula34.Domain.Escola;
+import _03OrientacaoObjetos._08Associacao._03AssociacaoUnidirecionalMuitosUmAula34.Domain.Professor;
 
 public class EscolaTest {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package _03OrientacaoObjetos._02Metodos.MetodosAula21;
+package _03OrientacaoObjetos._02Metodos.MetodosAula21_Exercicio;
 
-import _03OrientacaoObjetos._02Metodos.MetodosAula21.Dominio.Funcionario;
+import _03OrientacaoObjetos._02Metodos.MetodosAula21_Exercicio.Dominio.Funcionario;
 
 public class FuncionarioTest {
     public static void main(String[] args) {

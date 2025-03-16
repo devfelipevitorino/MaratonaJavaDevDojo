@@ -1,11 +1,9 @@
-package _03OrientacaoObjetos._08Associacao.AssociacaoUnidirecionalAula33.Domain;
+package _03OrientacaoObjetos._08Associacao._03AssociacaoUnidirecionalMuitosUmAula34.Domain;
 
-public class Time {
-
+public class Professor {
     private String nome;
 
-
-    public Time(String nome) {
+    public Professor(String nome) {
         this.nome = nome;
     }
 
@@ -16,6 +14,4 @@ public class Time {
     public void setNome(String nome) {
         this.nome = nome;
     }
-
-
 }
