@@ -1,8 +1,8 @@
-package _03OrientacaoObjetos._09Heranca._02HerancaAula40;
+package _03OrientacaoObjetos._09Heranca._03HerancaAula41;
 
-import _03OrientacaoObjetos._09Heranca._02HerancaAula40.Domain.Endereco;
-import _03OrientacaoObjetos._09Heranca._02HerancaAula40.Domain.Funcionario;
-import _03OrientacaoObjetos._09Heranca._02HerancaAula40.Domain.Pessoa;
+import _03OrientacaoObjetos._09Heranca._03HerancaAula41.Domain.Endereco;
+import _03OrientacaoObjetos._09Heranca._03HerancaAula41.Domain.Funcionario;
+import _03OrientacaoObjetos._09Heranca._03HerancaAula41.Domain.Pessoa;
 
 public class HerancaTest {
     public static void main(String[] args) {
@@ -25,6 +25,6 @@ public class HerancaTest {
         funcionario.setSalario(10000);
         System.out.println("-----------------");
         funcionario.imprime();
-
+        funcionario.comprovanteRecebimento();
     }
 }
