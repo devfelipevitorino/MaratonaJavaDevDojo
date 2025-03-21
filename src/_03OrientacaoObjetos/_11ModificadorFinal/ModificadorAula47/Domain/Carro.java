@@ -1,4 +1,4 @@
-package _03OrientacaoObjetos._11Modificador.ModificadorAula47.Domain;
+package _03OrientacaoObjetos._11ModificadorFinal.ModificadorAula47.Domain;
 
 public class Carro {
     // Caso necessario é possivel utilizar "final" na classe, impedindo herança e sobrescrita

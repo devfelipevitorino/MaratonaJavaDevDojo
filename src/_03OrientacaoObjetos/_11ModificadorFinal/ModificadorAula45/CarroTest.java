@@ -1,6 +1,6 @@
-package _03OrientacaoObjetos._11Modificador.ModificadorAula45;
+package _03OrientacaoObjetos._11ModificadorFinal.ModificadorAula45;
 
-import _03OrientacaoObjetos._11Modificador.ModificadorAula45.Domain.Carro;
+import _03OrientacaoObjetos._11ModificadorFinal.ModificadorAula45.Domain.Carro;
 
 public class CarroTest {
     public static void main(String[] args) {

@@ -1,9 +1,8 @@
-package _03OrientacaoObjetos._11Modificador.ModificadorAula46.Domain;
+package _03OrientacaoObjetos._11ModificadorFinal.ModificadorAula45.Domain;
 
 public class Carro {
     private String nome;
     public static final double VELOCIDADE_LIMITE = 250;
-    public final Comprador COMPRADOR = new Comprador();
 
     public String getNome() {
         return nome;

@@ -1,4 +1,4 @@
-package _03OrientacaoObjetos._11Modificador.ModificadorAula47.Domain;
+package _03OrientacaoObjetos._11ModificadorFinal.ModificadorAula47.Domain;
 
 public class Ferrari extends Carro{
 
