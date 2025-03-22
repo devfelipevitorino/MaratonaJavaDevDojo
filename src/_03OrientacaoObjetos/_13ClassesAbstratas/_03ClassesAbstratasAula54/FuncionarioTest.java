@@ -1,7 +1,7 @@
-package _03OrientacaoObjetos._13ClassesAbstratas._02ClassesAbstratasAula53;
+package _03OrientacaoObjetos._13ClassesAbstratas._03ClassesAbstratasAula54;
 
-import _03OrientacaoObjetos._13ClassesAbstratas._02ClassesAbstratasAula53.Domain.Desenvolvedor;
-import _03OrientacaoObjetos._13ClassesAbstratas._02ClassesAbstratasAula53.Domain.Gerente;
+import _03OrientacaoObjetos._13ClassesAbstratas._03ClassesAbstratasAula54.Domain.Desenvolvedor;
+import _03OrientacaoObjetos._13ClassesAbstratas._03ClassesAbstratasAula54.Domain.Gerente;
 
 public class FuncionarioTest {
     public static void main(String[] args) {
@@ -14,5 +14,8 @@ public class FuncionarioTest {
 
         Desenvolvedor desenvolvedor = new Desenvolvedor("Touya", 12000);
         System.out.println(desenvolvedor);
+
+        desenvolvedor.imprime();
+        gerente.imprime();
     }
 }
