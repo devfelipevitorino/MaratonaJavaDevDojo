@@ -19,6 +19,6 @@ public class PolimorfismoTest {
         System.out.println(produto2.getValor());
         System.out.println(produto2.calcularImposto());
 
-        
+
     }
 }
