@@ -1,6 +1,6 @@
-package _04Exception._01ExceptionAula63;
+package _04Exception._02ExceptionAula64.Error;
 
-public class StackOverFlow {
+public class StackOverFlowTest {
     public static void main(String[] args) {
         recursividade();
     }
