@@ -1,4 +1,4 @@
-package _04Exception._06Exception68.Runtime;
+package _04Exception._06ExceptionAula68.Runtime;
 
 public class RuntinemExceptionTest {
     public static void main(String[] args) {

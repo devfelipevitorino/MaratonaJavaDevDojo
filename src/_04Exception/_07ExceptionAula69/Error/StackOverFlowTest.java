@@ -1,4 +1,4 @@
-package _04Exception._06Exception68.Error;
+package _04Exception._07ExceptionAula69.Error;
 
 public class StackOverFlowTest {
     public static void main(String[] args) {

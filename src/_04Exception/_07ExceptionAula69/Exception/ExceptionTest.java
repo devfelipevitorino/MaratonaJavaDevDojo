@@ -1,4 +1,4 @@
-package _04Exception._06Exception68.Exception;
+package _04Exception._07ExceptionAula69.Exception;
 
 import java.io.File;
 import java.io.IOException;
