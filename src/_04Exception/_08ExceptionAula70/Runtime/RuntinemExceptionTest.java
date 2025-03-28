@@ -1,4 +1,4 @@
-package _04Exception._07ExceptionAula69.Runtime;
+package _04Exception._08ExceptionAula70.Runtime;
 
 import java.io.FileNotFoundException;
 import java.sql.SQLException;
@@ -13,10 +13,14 @@ public class RuntinemExceptionTest {
 //          throw new IndexOutOfBoundsException();
 //          throw new ArithmeticException();
             throw new RuntimeException();
-        } catch (ArrayIndexOutOfBoundsException | IllegalArgumentException | ArithmeticException e) {
-            System.out.println("Dentro doArrayIndexOutOfBoundsException | IllegalArgumentException | ArithmeticException");
-        } catch (IndexOutOfBoundsException e){
+        } catch (ArrayIndexOutOfBoundsException e) {
+            System.out.println("Dentro do ArrayIndexOutOfBoundsException");
+        }catch (IndexOutOfBoundsException e){
             System.out.println("Dentro do IndexOutOfBoundsException");
+        }catch (IllegalArgumentException e){
+            System.out.println("Dentro do IllegalArgumentException");
+        } catch (ArithmeticException e) {
+            System.out.println("Dentro do ArithmeticException");
         } catch (RuntimeException e) {
             System.out.println("Dentro do RuntimeException");
         }
@@ -25,8 +29,10 @@ public class RuntinemExceptionTest {
 
         try {
             talvezLanceUmaException();
-        } catch (SQLException | FileNotFoundException e) {
-            e.printStackTrace();
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
         }
 
     }
