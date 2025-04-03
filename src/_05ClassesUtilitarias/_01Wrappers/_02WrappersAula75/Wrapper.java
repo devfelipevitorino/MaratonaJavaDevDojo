@@ -1,4 +1,4 @@
-package _05ClassesUtilitarias._01WrappersAula75;
+package _05ClassesUtilitarias._01Wrappers._02WrappersAula75;
 
 public class Wrapper {
     public static void main(String[] args) {
