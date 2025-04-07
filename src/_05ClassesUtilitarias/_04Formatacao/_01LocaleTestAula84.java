@@ -2,7 +2,7 @@ package _05ClassesUtilitarias._04Formatacao;
 
 import java.util.Locale;
 
-public class LocaleTestAula84 {
+public class _01LocaleTestAula84 {
     public static void main(String[] args) {
 
         System.out.println(Locale.getDefault());
