@@ -28,7 +28,7 @@ public class InternacionalizacaoDatas {
         System.out.println(localeCH.getDisplayCountry());
 
         System.out.println(localeItaly.getDisplayCountry(localeJapao));
-        System.out.println(localeCH.getDisplayCountry(localeJapao)); 
+        System.out.println(localeCH.getDisplayCountry(localeJapao));
 
     }
 
