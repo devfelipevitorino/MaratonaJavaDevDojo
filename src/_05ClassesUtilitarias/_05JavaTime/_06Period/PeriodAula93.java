@@ -3,6 +3,7 @@ package _05ClassesUtilitarias._05JavaTime._06Period;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.Period;
+import java.time.temporal.ChronoUnit;
 
 public class PeriodAula93 {
     public static void main(String[] args) {
@@ -21,6 +22,8 @@ public class PeriodAula93 {
         System.out.println(p3);
         System.out.println(p4);
         System.out.println(p5);
+
+        System.out.println(now.until(now.plusDays(p3.getDays()), ChronoUnit.MONTHS));
 
     }
 }
